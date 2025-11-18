@@ -1,9 +1,9 @@
 # HETC® — QSBC (Quantum‑Safe Blockchain Coalition) — LITE
 
-**ES (Resumen)**
+**(Resumen)**
 Paquete mínimo para publicar recomendaciones de seguridad post‑cuántica (PQ) para redes blockchain (BNB Chain, Ethereum, etc.).
 
-**EN (Summary)**
+** (Summary)**
 Minimal package to publish post‑quantum (PQ) security recommendations for blockchain networks (BNB Chain, Ethereum, etc.).
 
 ### 📚 Contenido / Content
